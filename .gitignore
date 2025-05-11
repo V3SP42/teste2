@@ -1,0 +1,19 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+*.vs/
+
+# React (CRA)
+zoo-web/node_modules/
+zoo-web/build/
+zoo-web/.env
+
+# Outros
+.vscode/
+.idea/
+*.code-workspace
